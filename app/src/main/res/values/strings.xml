@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bookshelf</string>
+    <string name="search_hint">Rechercher des livres</string>
+    <string name="loading">Chargement…</string>
+    <string name="error">Impossible de charger les livres. Vérifiez votre connexion.</string>
+    <string name="retry">Réessayer</string>
+    <string name="no_results">Aucun livre trouvé.</string>
+</resources>
